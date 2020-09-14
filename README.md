@@ -9,5 +9,5 @@
 
 <h4>You can find me on:</h4>
 <p>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/joanna-skrzypczak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/joanna-skrzypczak/" height="30" width="30" /></a>
+<a href="https://linkedin.com/in/joanna-skrzypczak/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/joanna-skrzypczak/" height="30" width="30" /></a>
 </p>
