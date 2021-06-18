@@ -10,6 +10,7 @@
     <li>CSS</li>
     <li>Ionic</li>
     <li>JavaScript</li>
+    <li>TypeScript</li>
     <li>React</li>
     <li>SASS</li>
   </ul>
